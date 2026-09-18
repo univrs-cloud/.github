@@ -1,6 +1,6 @@
  Private-cloud solution delivering full data control, ransomware protection, and digital sovereignty. 
 
-<img width="1735" height="1125" alt="SCR-20260515-lsmw" src="https://github.com/user-attachments/assets/1f7540fe-e5e7-45b9-acb0-4c772742c3b4" />
+<img width="1685" height="1085" alt="SCR-20260918-oxzo" src="https://github.com/user-attachments/assets/cf462446-de7e-4c27-899c-1daccd58ea34" />
 <img width="1735" height="1126" alt="SCR-20260515-mfqh" src="https://github.com/user-attachments/assets/6755d50d-98d6-4f07-9441-af0d20a1a17d" />
 <img width="1735" height="1126" alt="SCR-20260515-mhha" src="https://github.com/user-attachments/assets/608d3410-a531-4ce6-99a9-89e5b9b9ad07" />
 <img width="1735" height="1126" alt="SCR-20260515-mhwm" src="https://github.com/user-attachments/assets/28a1cefe-fd2e-41ef-8693-2db33613575c" />
