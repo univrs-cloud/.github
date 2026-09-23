@@ -1,4 +1,6 @@
- Private-cloud solution delivering full data control, ransomware protection, and digital sovereignty. 
+Private-cloud solution delivering full data control, ransomware protection, and digital sovereignty. 
+
+[Download](https://github.com/univrs-cloud/virgo/releases)
 
 <img width="1685" height="1085" alt="SCR-20260918-pizm" src="https://github.com/user-attachments/assets/26fc6fc1-6c60-4145-aac8-1b9377f436ce" />
 <img width="1685" height="1085" alt="SCR-20260918-oxzo" src="https://github.com/user-attachments/assets/cf462446-de7e-4c27-899c-1daccd58ea34" />
