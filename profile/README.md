@@ -2,6 +2,8 @@ Private-cloud solution delivering full data control, ransomware protection, and 
 
 [Download ISO](https://github.com/univrs-cloud/virgo/releases)
 
+<br><br><br>
+
 <img width="1685" height="1085" alt="SCR-20260918-pizm" src="https://github.com/user-attachments/assets/26fc6fc1-6c60-4145-aac8-1b9377f436ce" />
 <img width="1685" height="1085" alt="SCR-20260918-oxzo" src="https://github.com/user-attachments/assets/cf462446-de7e-4c27-899c-1daccd58ea34" />
 <img width="1685" height="1085" alt="SCR-20260918-ozhr" src="https://github.com/user-attachments/assets/2efd6275-8c03-4b58-9b15-d31e73126632" />
