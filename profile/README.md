@@ -1,6 +1,6 @@
 Private-cloud solution delivering full data control, ransomware protection, and digital sovereignty. 
 
-[Download ISO](https://github.com/univrs-cloud/virgo/releases) &nbsp;&middot;&nbsp; [Documentation](https://docs.univrs.cloud)
+[Download ISO](https://github.com/univrs-cloud/virgo/releases/latest) &nbsp;&middot;&nbsp; [Documentation](https://docs.univrs.cloud)
 
 <br><br><br>
 
