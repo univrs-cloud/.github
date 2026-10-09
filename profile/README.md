@@ -4,9 +4,7 @@ Private-cloud solution delivering full data control, ransomware protection, and 
 
 <br><br><br>
 
-<img width="1685" height="1085" alt="SCR-20260918-pizm" src="https://github.com/user-attachments/assets/26fc6fc1-6c60-4145-aac8-1b9377f436ce" />
-<img width="1685" height="1085" alt="SCR-20260918-oxzo" src="https://github.com/user-attachments/assets/cf462446-de7e-4c27-899c-1daccd58ea34" />
-<img width="1685" height="1085" alt="SCR-20260918-ozhr" src="https://github.com/user-attachments/assets/2efd6275-8c03-4b58-9b15-d31e73126632" />
-<img width="1685" height="1085" alt="SCR-20260918-peto" src="https://github.com/user-attachments/assets/24e3f25f-fdbd-4b18-9a24-1c32ae49357b" />
-<img width="1685" height="1085" alt="SCR-20260918-phoz" src="https://github.com/user-attachments/assets/68432838-3b80-4413-9bca-c670a9d526b5" />
-<img width="1685" height="1085" alt="SCR-20260918-pihj" src="https://github.com/user-attachments/assets/b1521b49-e9c0-44bc-8837-d04c5287d02b" />
+<img width="2880" height="1920" alt="login" src="https://github.com/user-attachments/assets/4671e28e-903a-4459-aa6b-afe9636c89c2" />
+<img width="2880" height="1920" alt="menu-collapsed" src="https://github.com/user-attachments/assets/6cc8c5c5-241b-455f-ad49-d869ba012b10" />
+<img width="2880" height="1920" alt="dashboard-window" src="https://github.com/user-attachments/assets/303ecf3d-04b1-4818-8e31-0b5c1ff27dfb" />
+<img width="2880" height="1920" alt="services-logs" src="https://github.com/user-attachments/assets/292bdea2-8d0c-4c0f-a6b7-cec66ed89743" />
