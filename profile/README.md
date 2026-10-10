@@ -4,7 +4,7 @@ Private-cloud solution delivering full data control, ransomware protection, and 
 
 <br><br><br>
 
-<img width="2880" height="1920" alt="login" src="https://github.com/user-attachments/assets/4671e28e-903a-4459-aa6b-afe9636c89c2" />
-<img width="2880" height="1920" alt="menu-collapsed" src="https://github.com/user-attachments/assets/6cc8c5c5-241b-455f-ad49-d869ba012b10" />
-<img width="2880" height="1920" alt="dashboard-window" src="https://github.com/user-attachments/assets/303ecf3d-04b1-4818-8e31-0b5c1ff27dfb" />
-<img width="2880" height="1920" alt="services-logs" src="https://github.com/user-attachments/assets/292bdea2-8d0c-4c0f-a6b7-cec66ed89743" />
+<img width="2880" height="1920" alt="login" src="https://github.com/user-attachments/assets/0ebcd5fd-74a9-40ce-8bd7-f8ff4a367b62" />
+<img width="2880" height="1920" alt="menu-collapsed" src="https://github.com/user-attachments/assets/2004d48b-fe38-4db4-afd2-821322ab2736" />
+<img width="2880" height="1920" alt="dashboard-window" src="https://github.com/user-attachments/assets/bc309f2f-6d59-46c2-9bdd-fd78149062e2" />
+<img width="2880" height="1920" alt="services-logs" src="https://github.com/user-attachments/assets/005b9dc4-8507-4bac-acc8-20410c4d9d2c" />
